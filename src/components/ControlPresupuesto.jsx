@@ -66,7 +66,7 @@ const ControlPresupuesto = ({
             type="button"
             onClick={handleResetApp}
           >
-            Resetear App
+            Resetear
           </button>
           <p>
             <span>Presupuesto:</span>{formatearCantidad(presupuesto)}
